@@ -1,0 +1,1 @@
+g++ -o main.out main.cpp -std=c++11 -I ../include

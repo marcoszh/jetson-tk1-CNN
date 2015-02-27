@@ -1,0 +1,18 @@
+# project tiny-cnn (0.0.1) configured on Sat Nov 15 16:26:20 2014 by
+# waf 1.7.7 (abi 98, python 20706f0 on linux2)
+# using ./waf configure --AVX --TBB --TBB_ROOT=/home/marcos/tbb/include --BOOST_ROOT=/usr/include/boost
+#
+----------------------------------------
+Setting top to
+/home/marcos/tiny-cnn-master
+----------------------------------------
+Setting out to
+/home/marcos/tiny-cnn-master/build
+----------------------------------------
+Checking for program g++,c++
+g++
+find program=['g++', 'c++'] paths='' var='CXX' -> 'g++'
+----------------------------------------
+Checking for program ar
+/usr/bin/ar
+find program=['ar'] paths=['/usr/local/sbin', '/usr/local/bin', '/usr/sbin', '/usr/bin', '/sbin', '/bin', '/usr/games', '/usr/local/games'] var='AR' -> '/usr/bin/ar'
